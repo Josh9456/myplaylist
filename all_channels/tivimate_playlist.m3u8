@@ -724,3 +724,5 @@ https://fl5.moveonjoy.com/NBA_11/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linu
 https://fl5.moveonjoy.com/NBA_12/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 13" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/nba-tv.png" group-title="NBA",NBA 13
 https://fl5.moveonjoy.com/NBA_13/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
+#EXTINF:-1 group-title="F1" tvg-id="F1" tvg-logo="https://ppv.to/assets/thumb/e10875960bc12d9c502d3d16eb8157cc-thumbnail.jpg" tvg-name="F1",F1
+https://gg.poocloud.in/skyf1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36|Referer=https://embednow.top/|Origin=https://embednow.top
