@@ -89,6 +89,26 @@ https://gg.poocloud.in/uel_midtjylland/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/adc6376f860fa7298f2cb133621127a3-thumbnail.jpg" group-title="FOOTBALL",Tottenham Hotspur vs Doncaster Rovers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/efl_spurs/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3d09082ef392afee1d513dc94abb484c-thumbnail.jpg" group-title="FOOTBALL",Huddersfield Town vs Manchester City
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/efl_huddersfield/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bfee6dcf1923f53b9ccd3546f7cca9fe-thumbnail.jpg" group-title="FOOTBALL",Newcastle United vs Bradford City
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/efl_newcastle/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3bac1a9cd01590ac3bac714bd0663c20-thumbnail.jpg" group-title="FOOTBALL",The Golazo Show
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_golazo/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/87c9398200dbf3f1e2226bc95d6744fd-thumbnail.jpg" group-title="FOOTBALL",GNK Dinamo vs. Fenerbahçe
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -124,6 +144,11 @@ https://gg.poocloud.in/uel_nice/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/uel_malmo/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c213193ff975a1b347381bec5361bcef-thumbnail.jpg" group-title="FOOTBALL",Port Vale vs Arsenal
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/efl_port-vale/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/449529f5aa087dbba0267a60aaf74475-thumbnail.jpg" group-title="FOOTBALL",Atlético de Madrid vs. Rayo Vallecano
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -409,7 +434,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​​​​​‌​‌​​‌‌‌ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​​​‌​‌​​​‌​‌‌‌‌​​​‌‌​‌‌​​‌​‌‌​​​ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
