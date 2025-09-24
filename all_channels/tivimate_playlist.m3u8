@@ -147,13 +147,13 @@ https://windnew.newkso.ru/wind/premium41/mono.m3u8|Referer=https://jxoplay.xyz/|
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" tvg-name="EuroSport 2",EuroSport 2
 https://windnew.newkso.ru/wind/premium42/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-name="FanDuel SN Detroit",FanDuel SN Detroit
-https://zekonew.newkso.ru/zeko/premium891/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://zekonew.newkso.ru/zeko/premium891/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-name="FanDuel SN Florida",FanDuel SN Florida
 https://zekonew.newkso.ru/zeko/premium892/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-name="FanDuel SN Great Lakes",FanDuel SN Great Lakes
-https://zekonew.newkso.ru/zeko/premium893/mono.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
+https://zekonew.newkso.ru/zeko/premium893/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-name="FanDuel SN Indiana",FanDuel SN Indiana
-https://zekonew.newkso.ru/zeko/premium894/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://zekonew.newkso.ru/zeko/premium894/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Midwest.-.Kansas.City.us" tvg-logo="https://i.imgur.com/Oo4Fayt.png" tvg-name="FanDuel SN Kansas City",FanDuel SN Kansas City
 https://zekonew.newkso.ru/zeko/premium895/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://i.imgur.com/gdm5VCX.png" tvg-name="FanDuel SN Midwest",FanDuel SN Midwest
@@ -161,9 +161,9 @@ https://zekonew.newkso.ru/zeko/premium896/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-name="FanDuel SN North",FanDuel SN North
 https://zekonew.newkso.ru/zeko/premium898/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-name="FanDuel SN Ohio",FanDuel SN Ohio
-https://nfsnew.newkso.ru/nfs/premium899/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium899/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-name="FanDuel SN Oklahoma",FanDuel SN Oklahoma
-https://zekonew.newkso.ru/zeko/premium900/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://zekonew.newkso.ru/zeko/premium900/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-name="FanDuel SN SoCal",FanDuel SN SoCal
 https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.South.us" tvg-logo="https://i.imgur.com/SZfJfVM.png" tvg-name="FanDuel SN South",FanDuel SN South
@@ -173,9 +173,9 @@ https://zekonew.newkso.ru/zeko/premium904/mono.m3u8|User-Agent=Mozilla/5.0 (X11;
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-name="FanDuel SN Sun",FanDuel SN Sun
 https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" tvg-name="FanDuel SN West",FanDuel SN West
-https://nfsnew.newkso.ru/nfs/premium906/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium906/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-name="FanDuel SN Wisconsin",FanDuel SN Wisconsin
-https://nfsnew.newkso.ru/nfs/premium907/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium907/mono.m3u8
 #EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" tvg-name="Film4",Film4
 https://windnew.newkso.ru/wind/premium688/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOX (WSVN)",FOX (WSVN)
