@@ -8,8 +8,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Explicitly grants write access for commits/pushes
     steps:
-      - uses: actions/checkout@v3  # No token here—test this
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Persists credentials for git operations
 
       - name: Set up Python
         uses: actions/setup-python@v4
