@@ -1,0 +1,32 @@
+name: Update PPV M3U8 Playlist
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Required for pushing back to the repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper script
+        run: python all_channels/ppv.py
+
+      - name: Commit and push updated playlist
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ppv.m3u8
+          git commit -m "Automated update of ppv.m3u8 playlist" || echo "No changes to commit"
+          git push
