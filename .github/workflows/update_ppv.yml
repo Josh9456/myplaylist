@@ -3,14 +3,13 @@ name: Update PPV M3U8 Playlist
 on:
   schedule:
     - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Enables manual triggering
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Required for pushing back to the repo
+      - uses: actions/checkout@v3  # No token here—test this
 
       - name: Set up Python
         uses: actions/setup-python@v4
