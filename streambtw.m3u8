@@ -1,26 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Olympique Marseille vs Ajax
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Barcelona vs PSG
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://playlist.streameast247.com/playlist/stream_4.m3u8
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Chelsea vs Benfica
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Monaco vs Manchester City
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://playlist.streameast247.com/playlist/stream_5.m3u8
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Internazionale vs Slavia Praha
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Arsenal vs Olympiakos Piraeus
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://playlist.streameast247.com/playlist/stream_6.m3u8
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Bodø / Glimt vs Tottenham Hotspur
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Napoli vs Sporting CP
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://playlist.streameast247.com/playlist/stream_7.m3u8
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Paphos vs Bayern München
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Bayer Leverkusen vs PSV
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://playlist.streameast247.com/playlist/stream_8.m3u8
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Villarreal vs Juventus
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_9.m3u8
