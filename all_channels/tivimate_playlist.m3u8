@@ -74,7 +74,7 @@ http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8|User-Agent=Mozilla/5.0 (X11;
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
 #EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
-https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
 https://world-proxifier.xyz/daddylive/p/Qg0GcRAVFxFpaRBXUFQ=/index.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" tvg-name="CMT",CMT
