@@ -49,8 +49,8 @@ def generate_m3u_playlist(streams_data):
             m3u8_url = extract_m3u8_from_page(uri_name)
             if m3u8_url:
                 m3u_content += f'#EXTINF:-1 tvg-logo="{poster}" group-title="{category_name.upper()}",{name}\n'
-                m3u_content += '#EXTVLCOPT:http-origin=https://ppvs.su\n'
-                m3u_content += '#EXTVLCOPT:http-referrer=https://ppvs.su/\n'
+                m3u_content += '#EXTVLCOPT:http-origin=https://ppv.to\n'
+                m3u_content += '#EXTVLCOPT:http-referrer=https://ppv.to/\n'
                 m3u_content += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\n'
                 m3u_content += f'{m3u8_url}\n'
     return m3u_content
