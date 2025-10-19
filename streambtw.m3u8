@@ -1,151 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/23bf83ee-6d7a-3957-8b67-8014ddb9ca47/logo/original_201809071300.svg" group-title="F1",Formula 1 vs live Stream
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",NFL Redzone Live
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_f1.m3u8?md5=vOhzjPCuoMIGG7uAs71V7g&expires=1760840589
-#EXTINF:-1 tvg-logo="https://static.dorna.com/assets/logos/mgp/brand/mgp-logo-on-dark.svg?v2" group-title="MOTOGP",MotoGP vs Live Stream
+https://streameast247.com/playlist/stream_redzone.m3u8?md5=tjp13NFMSaepqB48JD7P0w&expires=1760880618
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",NFL Network Live
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_moto.m3u8?md5=6_dyBhtd5VpCg1hDcQcoGQ&expires=1760840595
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/394dad60-8a1a-31a8-912c-a207555bc939/logo/original_20211113210745.svg" group-title="UFC",UFC Fight Night: de Ridder vs Allen
+https://streameast247.com/playlist/stream_nfl1.m3u8?md5=rjiG5jeRhfDszOQgtmnE1g&expires=1760880624
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Los Angeles Rams vs Jacksonville Jaguars
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_ufc.m3u8?md5=N8zwOU0iI-xJg1nwoYAFEA&expires=1760840596
-#EXTINF:-1 tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg" group-title="WWE",AEW: WrestleDream vs wwe
+https://streameast247.com/playlist/stream_nfl1.m3u8?md5=dCzEQeRaphVY8WGduUResg&expires=1760880625
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Las Vegas Raiders vs Kansas City Chiefs
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_wwe.m3u8?md5=Z-KQDG_Iz9c0V8CpU73TDQ&expires=1760840596
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg" group-title="BOXING",Kuroki vs Bormann
+https://streameast247.com/playlist/stream_nfl2.m3u8?md5=V5N4UMP42xZhJ90JodOxRg&expires=1760880626
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Carolina Panthers vs New York Jets
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_box1.m3u8?md5=f_parNwn6nMFpDz7Q1zQ2A&expires=1760840597
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/889c6d08-03c6-31cc-93da-ef344c22a1c4/logo/original_201809051644.svg" group-title="BOXING",Juarez vs Nery Plata
+https://streameast247.com/playlist/stream_nfl3.m3u8?md5=blk2PAi9Bnqoss5kU4_5AA&expires=1760880627
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Miami Dolphins vs Cleveland Browns
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_box2.m3u8?md5=R0tkaudmHhTwR8SebuDILA&expires=1760840598
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Nottingham Forest vs Chelsea
+https://streameast247.com/playlist/stream_nfl4.m3u8?md5=SS_QjdcO4TAlRRxq-B0MwQ&expires=1760880627
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",New England Patriots vs Tennessee Titans
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=vJhCP0UiFkbaVNC6LHZmSw&expires=1760840599
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Manchester City vs Everton
+https://streameast247.com/playlist/stream_nfl5.m3u8?md5=YQdfcvhlRM6nxa76dEzlnQ&expires=1760880629
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",New Orleans Saints vs Chicago Bears
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=ETG5YKqZn9bDJ6q1x9yuqg&expires=1760840600
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Burnley vs Leeds United
+https://streameast247.com/playlist/stream_nfl6.m3u8?md5=Es_w5gl7-MG5AVl0N05z9A&expires=1760880630
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Philadelphia Eagles vs Minnesota Vikings
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_3.m3u8?md5=KXVV7ENjLE_ZfulEU6NB2w&expires=1760840600
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Crystal Palace vs AFC Bournemouth
+https://streameast247.com/playlist/stream_nfl7.m3u8?md5=gz0K-Gn40Z6djnqiVPoC-w&expires=1760880631
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",New York Giants vs Denver Broncos
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_4.m3u8?md5=DkuayicpYxMJ8Z9RAM33ag&expires=1760840601
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Sunderland vs Wolverhampton Wanderers
+https://streameast247.com/playlist/stream_nfl8.m3u8?md5=g-gOy2F1w0CcMpI29RuZjw&expires=1760880632
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Indianapolis Colts vs Los Angeles Chargers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_5.m3u8?md5=ev0b5fKvvSDafcDwZdIdeQ&expires=1760840602
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Brighton & Hove Albion vs Newcastle United
+https://streameast247.com/playlist/stream_nfl9.m3u8?md5=XkIDbufjBzA2PPqKf6U7Qg&expires=1760880632
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Green Bay Packers vs Arizona Cardinals
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=jFTld26lryX6FsOrbLQc9g&expires=1760840603
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Fulham vs Arsenal
+https://streameast247.com/playlist/stream_nfl10.m3u8?md5=ZFdP-7nIRtrvPkpVMKQh4g&expires=1760880633
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Washington Commanders vs Dallas Cowboys
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=D8Wqrjqs60U5EcVv6hwDOA&expires=1760840604
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Sevilla vs Mallorca
+https://streameast247.com/playlist/stream_nfl11.m3u8?md5=ujnYM7G44IG6BUvMzBrXkQ&expires=1760880634
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Atlanta Falcons vs San Francisco 49ers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=zpPCuzEj31SkccyyeRp9sA&expires=1760840605
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Barcelona vs Girona
+https://streameast247.com/playlist/stream_nfl1.m3u8?md5=JfA-w3dLIYKK_nERlKErAQ&expires=1760880635
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Tottenham Hotspur vs Aston Villa
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=sPIBUD1FfsWgYzGzDP7FRA&expires=1760840606
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Villarreal vs Real Betis
+https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=9wbquSNCA7NMq2VK3E-hbg&expires=1760880636
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="PREMIER LEAGUE",Liverpool vs Manchester United
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=sPIBUD1FfsWgYzGzDP7FRA&expires=1760840606
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Atlético Madrid vs Osasuna
+https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=IcMDGco8MQ2hHh8gCsIJ_w&expires=1760880637
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Elche vs Athletic Club
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=OTYY_zIRWB07h5sUERiCoA&expires=1760840607
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Lecce vs Sassuolo
+https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=zNUiZQxv_ypLAATa7fps-w&expires=1760880640
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Celta de Vigo vs Real Sociedad
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_14.m3u8?md5=WFBbY5_Dx8GOR6zgsdWSMg&expires=1760840608
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Pisa vs Hellas Verona
+https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=HmY55gq1ouWKP5xi_LkBlQ&expires=1760880641
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Levante vs Rayo Vallecano
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_7.m3u8?md5=cgC4qoIu-v5RWPHYw2Sa1w&expires=1760840608
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Torino vs Napoli
+https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=tWFbFxl1FLgN5hdN1nQc1Q&expires=1760880642
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Getafe vs Real Madrid
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_7.m3u8?md5=4pwXsbEGBAd4YWJGauXUGg&expires=1760840609
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Roma vs Internazionale
+https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=tWFbFxl1FLgN5hdN1nQc1Q&expires=1760880642
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Como vs Juventus
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_7.m3u8?md5=ZMrUG0fDHCPURC6EccODgA&expires=1760840610
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Nice vs Olympique Lyonnais
+https://streameast247.com/playlist/stream_7.m3u8?md5=Rk4PeRHnBnlVJoGWDJ9lbA&expires=1760880643
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Cagliari vs Bologna
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=4czj5Y3LHIgeUToCVflstw&expires=1760840610
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Angers SCO vs Monaco
+https://playlist.streameast247.com/playlist/stream_5.m3u8?md5=rb-wcjylRVkzE-uGyyUGnA&expires=1760880644
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Genoa vs Parma
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=nK8p70UtCEPA8LGHV-40vQ&expires=1760840611
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Olympique Marseille vs Le Havre
+https://streameast247.com/playlist/stream_7.m3u8?md5=nPHS6O6bCCBzbGzAAZCDVw&expires=1760880645
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Atalanta vs Lazio
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=6amw68A6CGMrmSJfD2ud0w&expires=1760840612
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Köln vs Augsburg
+https://streameast247.com/playlist/stream_7.m3u8?md5=IskLk9X9WBXokPXSVVWIng&expires=1760880646
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Milan vs Fiorentina
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_9.m3u8?md5=ZG4KBQiIMdaC96tn-5TNKA&expires=1760840612
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Wolfsburg vs Stuttgart
+https://streameast247.com/playlist/stream_7.m3u8?md5=IskLk9X9WBXokPXSVVWIng&expires=1760880646
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Lens vs Paris
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_10.m3u8?md5=pxf7cRbWVEvEmVEuoxiZPw&expires=1760840614
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Mainz 05 vs Bayer Leverkusen
+https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=sw0V4vjJnN-M9sjX4QZwRw&expires=1760880647
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Toulouse vs Metz
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_11.m3u8?md5=IQtV5gKyXQ_8cmUYgWAjfQ&expires=1760840614
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Heidenheim vs Werder Bremen
+https://playlist.streameast247.com/playlist/stream_4.m3u8?md5=LCv3uY9OYnxBnhDounHD2A&expires=1760880648
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Rennes vs Auxerre
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_12.m3u8?md5=t4whjGpLGgSnleUkOiXI9w&expires=1760840615
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",RB Leipzig vs Hamburger SV
+https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=rld3K2X5poEtRU-vv2v8JA&expires=1760880649
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Lorient vs Brest
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_13.m3u8?md5=nkJCHgUKGtPgyXuZPCtwGA&expires=1760840616
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Bayern München vs Borussia Dortmund
+https://playlist.streameast247.com/playlist/stream_3.m3u8?md5=oMxFJ9rWQxyA942VgXHwlw&expires=1760880649
+#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="LIGUE 1",Nantes vs Lille
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_9.m3u8?md5=2VCn4tjuL3_drtXVYEaDgA&expires=1760840617
+https://playlist.streameast247.com/playlist/stream_8.m3u8?md5=tZVriEqP_cEM8prTHK6Evg&expires=1760880650
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",Freiburg vs Eintracht Frankfurt
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://streameast247.com/playlist/stream_9.m3u8?md5=eqIOV2d6Ru-7ekGcIAlX1Q&expires=1760880651
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/30244926-00c4-3f69-8946-f8421c97ff71/logo/original_20200715202333.svg" group-title="BUNDESLIGA",St. Pauli vs Hoffenheim
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://streameast247.com/playlist/stream_9.m3u8?md5=eqIOV2d6Ru-7ekGcIAlX1Q&expires=1760880651
