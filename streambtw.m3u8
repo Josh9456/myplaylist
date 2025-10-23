@@ -1,56 +1,106 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Barcelona vs Olympiakos Piraeus
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Athletic Club vs Qarabag
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=arrbaGJSl6_DsdiTbBpLow&expires=1761099494
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Kairat vs Paphos
+https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=pKVZQl1On-kadDjJC6feGg&expires=1761185786
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Galatasaray vs Bodo / Glimt
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=zMV7FsAMlatVBwnRpyrUtA&expires=1761099494
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Newcastle United vs Benfica
+https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=SHhYxnHSezI-_XaK0d8hAg&expires=1761185787
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Chelsea vs Ajax
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=c8uLYT4_B54-ZlWNLLd24Q&expires=1761099495
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",PSV vs Napoli
+https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=qJ8FCLoPGrlUXrpYr_QqPQ&expires=1761185788
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Real Madrid vs Juventus
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=N1as8Y5dL2RhlAjJtPBh_Q&expires=1761099496
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Bayer Leverkusen vs PSG
+https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=nu7uscxSon-bD1y6RzjuOA&expires=1761185789
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Sporting CP vs Olympique Marseille
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_3.m3u8?md5=vrKTYG8WpmSCwYkXz6oabw&expires=1761099496
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Union Saint-Gilloise vs Internazionale
+https://playlist.streameast247.com/playlist/stream_3.m3u8?md5=QsVaatzczrFk_WQ7nJEbqg&expires=1761185789
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Monaco vs Tottenham Hotspur
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_4.m3u8?md5=U335eAU9kpocPiABZz2EFw&expires=1761099496
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Kobenhavn vs Borussia Dortmund
+https://playlist.streameast247.com/playlist/stream_4.m3u8?md5=doDwKBH-EVeQtI8ZIOwEVA&expires=1761185790
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Atalanta vs Slavia Praha
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_5.m3u8?md5=sfAWI_Oeg_CzW758F0mOTg&expires=1761099497
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Villarreal vs Manchester City
+https://playlist.streameast247.com/playlist/stream_5.m3u8?md5=Oc35wFxxLkKZMrOj8GjW_Q&expires=1761185790
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Eintracht Frankfurt vs Liverpool
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=SPZ1zl3kWfWS0o5DkFvioQ&expires=1761099498
-#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Arsenal vs Atlético Madrid
+https://streameast247.com/playlist/stream_6.m3u8?md5=w1OmfFHU-JqDRiH1R7JllQ&expires=1761185791
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_dark.svg" group-title="UEFA CHAMPIONS LEAGUE",Bayern Munchen vs Club Brugge
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_7.m3u8?md5=LyGKzqWWxY88My7wuylVQQ&expires=1761099498
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Oklahoma City Thunder vs Houston Rockets
+https://streameast247.com/playlist/stream_7.m3u8?md5=eDr0K-j923uwoP_a1l1zbQ&expires=1761185792
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",New York Knicks vs Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=udq9T8Iss3BvSSSdGR_YOw&expires=1761099498
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Los Angeles Lakers vs Golden State Warriors
+https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=Laq4jx0lyCiJB09PqGTtlg&expires=1761185792
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Orlando Magic vs Miami Heat
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=h1G0S5jYsKhSN3_Gd6S1Qw&expires=1761099499
+https://playlist.streameast247.com/playlist/stream_nba2.m3u8?md5=gwk2kixpkRivpHp4FyDKrw&expires=1761185793
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Charlotte Hornets vs Brooklyn Nets
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba3.m3u8?md5=wiryWun9Mib8p5pXlrgxTQ&expires=1761185794
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Atlanta Hawks vs Toronto Raptors
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba4.m3u8?md5=4DU7Q1gblFO6Fu5KT0fd3Q&expires=1761185794
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Boston Celtics vs Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba5.m3u8?md5=O22zbu48utgoum539C8hOw&expires=1761185795
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Memphis Grizzlies vs New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba4.m3u8?md5=uq2CN2l3a-ZIkdg_vYRNwg&expires=1761185796
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Chicago Bulls vs Detroit Pistons
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba7.m3u8?md5=cmqxIB2nLzIUSODuRzWDZA&expires=1761185797
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Milwaukee Bucks vs Washington Wizards
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba8.m3u8?md5=hffh5mVFV7s22iQFO3NMHg&expires=1761185797
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Utah Jazz vs LA Clippers
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba9.m3u8?md5=emx9OFJASNi5PI2xNHX7EA&expires=1761185798
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Dallas Mavericks vs San Antonio Spurs
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=pp8dewXnRWvKBunzhZtU1A&expires=1761185798
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Portland Trail Blazers vs Minnesota Timberwolves
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba10.m3u8?md5=U47c7a1iNOUlltnKpQL2hg&expires=1761185799
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Phoenix Suns vs Sacramento Kings
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_nba11.m3u8?md5=hzDDjHcVi3tvCqqEh-PRRg&expires=1761185799
