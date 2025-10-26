@@ -1,64 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/05a8b23d04672d09ce001ead07aaa40c-thumbnail.jpg" group-title="AMERICAN FOOTBALL",UCLA Bruins vs. Indiana Hoosiers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/16512d0b75b52e9603bf955b91e82d2d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Syracuse Orange vs. Georgia Tech Yellow Jackets
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9fde21c230437e018e70bb1a5d5d5060-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Ole Miss Rebels vs. Oklahoma Sooners
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/87da20e68c548ad656d37839d527a50e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Virginia Cavaliers vs. North Carolina Tar Heels
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ACCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f045babee381a4d0740de4ff01d21d68-thumbnail.jpg" group-title="AMERICAN FOOTBALL",South Florida Bulls vs. Memphis Tigers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/99a5a33d49cdeb510322efb399df7d90-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Alabama Crimson Tide vs. South Carolina Gamecocks
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5306fafe3ce0332d8d8e7c1861d2129b-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Missouri Tigers vs. Vanderbilt Commodores
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/74680d1aeb1d162c856c2744071b9a07-thumbnail.jpg" group-title="AMERICAN FOOTBALL",BYU Cougars vs. Iowa State Cyclones
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c4d6ba78b31b69c9067af99da5afa7b4-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Illinois Fighting Illini vs. Washington Huskies
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/BTN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3bcec30ab7d6fbca3eae277744b9fce8-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Oklahoma State Cowboys vs. Texas Tech Red Raiders
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPNU/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2249d4b338694b6741b2e3fc6f7e1489-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Baylor Bears vs. Cincinnati Bearcats
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/095d0555d09a7383ae2d970a44b88ea0-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Texas Longhorns vs. Mississippi State Bulldogs
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/679fcc1616f413e62cf6d8db32c3135d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Wisconsin Badgers vs. Oregon Ducks
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -184,26 +124,6 @@ https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c384809dec186ef5f60de74ca73f8d60-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 321: Aspinall vs. Gane
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ufc/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f4ad89e1a26b544536084d4db41d87c9-thumbnail.jpg" group-title="COMBAT SPORTS",Parker vs. Wardley
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5647793e9bd0a7524680f2bce120b514-thumbnail.jpg" group-title="DARTS",Machineseeker European Championship (Day 3 Afternoon)
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" group-title="DARTS",Machineseeker European Championship (Day 3 Evening)
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5bf176471a41b69c1f800304514911e6-thumbnail.jpg" group-title="DARTS",Machineseeker European Championship (Day 4 Afternoon)
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -214,111 +134,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5db044eb48f57fb9c855b2c079891562-thumbnail.jpg" group-title="FOOTBALL",Girona FC vs. Real Oviedo
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_gir/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/94aa539acc81bde7b2e27a9645791ca6-thumbnail.jpg" group-title="FOOTBALL",Udinese vs. Lecce
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_udinese/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cd9f75061ce113c23828ba530846af79-thumbnail.jpg" group-title="FOOTBALL",Parma vs. Como
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_parma/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a7d2f7e427542b621365abd4cb93ea46-thumbnail.jpg" group-title="FOOTBALL",Gladbach vs. Bayern
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_gladbach/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ce068d463b0d87c47324d9a8a15b7e74-thumbnail.jpg" group-title="FOOTBALL",Frankfurt vs. St. Pauli
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_frankfurt/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c61945ac140ad9045ae0a353252c26b8-thumbnail.jpg" group-title="FOOTBALL",Augsburg vs. RB Leipzig
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_augsburg/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/126c34d1139dda3a24b654c4d1377cc8-thumbnail.jpg" group-title="FOOTBALL",Hamburg vs. Wolfsburg
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_hamburg/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bca80ee1fe90c4447812143ec5c78af5-thumbnail.jpg" group-title="FOOTBALL",Hoffenheim vs. Heidenheim
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_hoffenheim/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5edb4cfe6d8fd6e86c690207a3043cf7-thumbnail.jpg" group-title="FOOTBALL",Chelsea vs. Sunderland
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/epl_chelsea/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4235f1d840877cfba78ac30c5e22614f-thumbnail.jpg" group-title="FOOTBALL",Newcastle United vs. Fulham
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/epl_newcastle/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d2f9323ec26d3aa95c2bc19f46513290-thumbnail.jpg" group-title="FOOTBALL",RCD Espanyol de Barcelona vs. Elche CF
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e2b3701f83157fa0d62a593c678ae210-thumbnail.jpg" group-title="FOOTBALL",Brest vs. PSG
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ligue1_brest/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/98638e94f650dede648f11fa327fe00b-thumbnail.jpg" group-title="FOOTBALL",Napoli vs. Inter
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_napoli/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/544fcf3f6d51e511c6002f5320592d18-thumbnail.jpg" group-title="FOOTBALL",Manchester United vs. Brighton and Hove Albion
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/epl_man-utd/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/03af6ddf1e682e623813f72523624932-thumbnail.jpg" group-title="FOOTBALL",Dortmund vs. Cologne
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/bundesliga_dortmund/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/58494ce33388426da6f9efd8d6dbdec2-thumbnail.jpg" group-title="FOOTBALL",Athletic Club vs. Getafe CF
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_ath/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1a5a204167dad53eae5187a449da3af5-thumbnail.jpg" group-title="FOOTBALL",AS Monaco vs. Toulouse FC
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ligue1_as-monaco/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f2e6ce708e20b82b2c2f23923c0fd907-thumbnail.jpg" group-title="FOOTBALL",Cremonese vs. Atalanta
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_cremonese/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/86c22e6b582110bf5e2bed3ccea20cf5-thumbnail.jpg" group-title="FOOTBALL",Brentford vs. Liverpool
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/epl_brentford/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/037a41b0b004f02491348cfa1bb0b6d1-thumbnail.jpg" group-title="FOOTBALL",Valencia CF vs. Villarreal CF
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_val/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e464001738817ed336815c0423ef09d6-thumbnail.jpg" group-title="FOOTBALL",RC Lens vs. OM
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f3d5e807fe4819b1457d286dd9a4b3f-thumbnail.jpg" group-title="FOOTBALL",Torino vs. Genoa
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -359,6 +174,11 @@ https://gg.poocloud.in/seriea_hellas-verona/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/seriea_sassuolo/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b1a3ce14756a3f29912ed3fcf0a74806-thumbnail.jpg" group-title="FOOTBALL",LOSC vs. FC Metz
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_lil/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/73c4ce170cd7f745a2d592e62901fbd6-thumbnail.jpg" group-title="FOOTBALL",Leverkusen vs. Freiburg
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -369,6 +189,21 @@ https://gg.poocloud.in/bundesliga_leverkusen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_rma/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/26033a311258865e2dc97e3eac46e6f9-thumbnail.jpg" group-title="FOOTBALL",Angers SCO vs. FC Lorient
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_anr/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2896a6a0218d54fd3b5c481dabffa2cb-thumbnail.jpg" group-title="FOOTBALL",AJ Auxerre vs. Havre AC
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_aux/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/11c3e43157384e83541b057fd84dd517-thumbnail.jpg" group-title="FOOTBALL",Rennes vs. OGC Nice
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_ren/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c01d1ae46e3b507d8b0552955c1362d8-thumbnail.jpg" group-title="FOOTBALL",Everton vs. Tottenham Hotspur
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -394,6 +229,11 @@ https://gg.poocloud.in/ll_osa/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/seriea_lazio/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/287df842220e849f46f530034beb1f6b-thumbnail.jpg" group-title="FOOTBALL",OL vs. Strasbourg
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_lyn/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/652c4ffbdfc97e7f1d3f9412e548a2b0-thumbnail.jpg" group-title="FOOTBALL",Rayo Vallecano vs. Deportivo Alavés
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -404,16 +244,131 @@ https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_bet/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" group-title="MOTORSPORTS",Mexican Grand Prix - FP3
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1d88810ee7270e57d878428ae0a6e0db-thumbnail.jpg" group-title="FOOTBALL",Havre AC vs. Brest
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" group-title="MOTORSPORTS",Mexican Grand Prix - Qualifying
+https://gg.poocloud.in/ligue1_lhv/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c3e08d402bd6d6a54e98059f938fca5d-thumbnail.jpg" group-title="FOOTBALL",FC Lorient vs. PSG
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/ligue1_lor/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/009cc98140019c5233fd26961bae4e2a-thumbnail.jpg" group-title="FOOTBALL",FC Metz vs. RC Lens
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_met/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4017d5643fb2f6b69c7193a85ccfeb8c-thumbnail.jpg" group-title="FOOTBALL",OGC Nice vs. LOSC
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_nic/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e908946e7cf2633ca2143cbbfa7e3aa8-thumbnail.jpg" group-title="FOOTBALL",OM vs. Angers SCO
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_mar/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5cb9e576ec5b269eeb79f8c8fe519412-thumbnail.jpg" group-title="FOOTBALL",FC Nantes vs. AS Monaco
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_nan/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c18bd4e87ebf88dfa226d5836c510c2b-thumbnail.jpg" group-title="FOOTBALL",Paris FC vs. OL
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_pfc/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9b0e31a4876ddfdeedb1320cf5888e94-thumbnail.jpg" group-title="FOOTBALL",Strasbourg vs. AJ Auxerre
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_sbg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8dfc9c7a9b5b8860e5b4e061ac7a611d-thumbnail.jpg" group-title="FOOTBALL",Toulouse FC vs. Rennes
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_tou/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/db15d9422057b90f436753765c1f2df9-thumbnail.jpg" group-title="FOOTBALL",PSG vs. OGC Nice
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_psg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/906cd9e528637356dff861596914eabe-thumbnail.jpg" group-title="FOOTBALL",AS Monaco vs. Paris FC
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_mco/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b3066133aedb963aebfb1e59c3d31549-thumbnail.jpg" group-title="FOOTBALL",AJ Auxerre vs. OM
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_aux/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8a61f6d5976c5dc7c13af0b7050a5e9b-thumbnail.jpg" group-title="FOOTBALL",Rennes vs. Strasbourg
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_ren/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3fe4399191722b32cca4408380f99d5b-thumbnail.jpg" group-title="FOOTBALL",RC Lens vs. FC Lorient
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_len/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e545fcca7e87df4a5768c3ee1a4d36ca-thumbnail.jpg" group-title="FOOTBALL",LOSC vs. Angers SCO
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_lil/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ba24a9a558fd0694c621be1ea04cf3d6-thumbnail.jpg" group-title="FOOTBALL",FC Nantes vs. FC Metz
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_nan/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c076361fbc70da9959eb82b8f9181a97-thumbnail.jpg" group-title="FOOTBALL",Toulouse FC vs. Havre AC
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_tou/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/820d9b3191bd3e9af11496ed88800d98-thumbnail.jpg" group-title="FOOTBALL",Brest vs. OL
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/ligue1_brs/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7fb85a03d3aa100862fbbd4fa14272b8-thumbnail.jpg" group-title="ICE HOCKEY",St. Louis Blues vs. Detroit Red Wings
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b381c19a6303e652e954aefe1885717d-thumbnail.jpg" group-title="ICE HOCKEY",Columbus Blue Jackets vs. Pittsburgh Penguins
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0d81fa7d69cff20a52c2da991924389f-thumbnail.jpg" group-title="ICE HOCKEY",Ottawa Senators vs. Washington Capitals
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/40af8bb8a9c81a6e5a4418539828de26-thumbnail.jpg" group-title="ICE HOCKEY",Montreal Canadiens vs. Vancouver Canucks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6d1c54d37be73858a07e184c5b30785d-thumbnail.jpg" group-title="ICE HOCKEY",Los Angeles Kings vs. Nashville Predators
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/nashvillepredators/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b9a97b1a95d27b8b748500e070988f1c-thumbnail.jpg" group-title="ICE HOCKEY",Carolina Hurricanes vs. Dallas Stars
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/dallasstars/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/69b70cecf1e88b5138dc541e140dcc11-thumbnail.jpg" group-title="ICE HOCKEY",Edmonton Oilers vs. Seattle Kraken
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cf45c8e54cc4a2cdedba5287d558280f-thumbnail.jpg" group-title="MOTORSPORTS",Mexican Grand Prix - Race
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -439,7 +394,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​​‌‌​‌​‌​‌ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​​​‌​‌​​​‌‌​​‌‌​‌‌​‌‌‌‌​​​​‌‌​​‌ Guy
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
