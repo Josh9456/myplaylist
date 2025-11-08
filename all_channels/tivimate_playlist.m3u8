@@ -79,7 +79,7 @@ http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8|User-Agent=Mozilla/5.0 (X11;
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
 #EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
-https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
 https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmakurama.com%2Fwind%2Fpremium715%2Fmono.m3u8%0D&data=cmVmZXJlcj1odHRwczovL2F2YS5rYXJtYWt1cmFtYS5jb218dXNlcl9hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMTAuMA%3D%3D
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" tvg-name="CMT",CMT
@@ -363,11 +363,11 @@ https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmak
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" tvg-name="Showtime USA",Showtime USA
 https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmakurama.com%2Fwind%2Fpremium333%2Fmono.m3u8%0D&data=cmVmZXJlcj1odHRwczovL2F2YS5rYXJtYWt1cmFtYS5jb218dXNlcl9hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMTAuMA%3D%3D
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="SHOXBET.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-shoxbet-usa.png" tvg-name="Showtime SHOxBET",Showtime SHOxBET
-https://windnew.newkso.ru/wind/premium685/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://windnew.newkso.ru/wind/premium685/mono.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",Sony Movie Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
 #EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" tvg-name="Sky Arts",Sky Arts
-https://windnew.newkso.ru/wind/premium683/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://windnew.newkso.ru/wind/premium683/mono.m3u8
 #EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png" tvg-name="Sky Atlantic",Sky Atlantic
 https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmakurama.com%2Fddy6%2Fpremium362%2Fmono.m3u8%0D&data=cmVmZXJlcj1odHRwczovL2F2YS5rYXJtYWt1cmFtYS5jb218dXNlcl9hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMTAuMA%3D%3D
 #EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Action.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" tvg-name="Sky Cinema Action",Sky Cinema Action
@@ -483,7 +483,7 @@ https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmak
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
 https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmakurama.com%2Fddy6%2Fpremium415%2Fmono.m3u8%0D&data=cmVmZXJlcj1odHRwczovL2F2YS5rYXJtYWt1cmFtYS5jb218dXNlcl9hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMTAuMA%3D%3D
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
-https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MOTORSPORT.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" tvg-name="SuperSport Motorsport",SuperSport Motorsport
 https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
 #EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="SS.Premier.League.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" tvg-name="SuperSport Premier league",SuperSport Premier league
@@ -527,7 +527,7 @@ https://nfsnew.newkso.ru/nfs/premium712/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 14",Tennis+ 14
 https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="(no tvg-id)" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 15",Tennis+ 15
-https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.2.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 2",Tennis+ 2
 https://dry-mud-f49a.eouqpdjeubwtjowfyb.workers.dev?url=https%3A%2F%2Fava.karmakurama.com%2Fddy6%2Fpremium40%2Fmono.m3u8%0D&data=cmVmZXJlcj1odHRwczovL2F2YS5rYXJtYWt1cmFtYS5jb218dXNlcl9hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMTAuMA%3D%3D
 #EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.3.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 3",Tennis+ 3
