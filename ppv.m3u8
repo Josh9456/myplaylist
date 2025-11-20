@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/af5738ca3c64546ba157a8f616e6f438-thumbnail.jpg" group-title="BASKETBALL",Chicago Bulls vs. Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-19-2025/chi-por
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/602761bf0d0eb49f4e8f313b32deb8e4-thumbnail.jpg" group-title="BASKETBALL",LA Clippers vs. Orlando Magic
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-20-2025/lac-orl
@@ -264,11 +259,6 @@ https://gg.poocloud.in/epl_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/laliga/2025-11-24/esp-sev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e85f81f3fc3410591e41c7c5eea66b7a-thumbnail.jpg" group-title="ICE HOCKEY",Boston Bruins vs. Anaheim Ducks
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/5382/5382-ana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/anaheimducks/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg" group-title="MOTORSPORTS",Las Vegas Grand Prix - FP1
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/f1/2025/las-vegas/fp1
@@ -319,7 +309,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/247-cows
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌​​​‌‌‌‌​​​‌ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​​‌‌‌‌‌​​‌​‌ Guy
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/247-family-guy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
