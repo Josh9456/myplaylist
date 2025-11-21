@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/648b237bda5ce68bdf59eaf9bac63f63-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Buffalo Bills vs. Houston Texans
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nfl/4760/4760-hou
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/houstontexans/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8a29a7718be8315ea61372db50529299-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Buffalo Bills vs. Houston Texans (Prime Vison)
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/buffalo-bills-vs.-houston-texans-prime-vison
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/primenextgen/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d055ee8cd2cbff1cdbee04fdfc3e2103-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Rutgers Scarlet Knights vs. Ohio State Buckeyes
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/4709-4709
@@ -164,56 +154,51 @@ https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/nfl/9556/9556-sf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/14c884073314efe5be787ac5642acd55-thumbnail.jpg" group-title="BASKETBALL",Memphis Tigers vs. Purdue Boilermakers
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/71c1c6eddca3be6dd1d4ed66c9107eb5-thumbnail.jpg" group-title="BASKETBALL",Indiana Pacers vs. Cleveland Cavaliers (East Group A)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/1124-1124
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/ind-cle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/CBSSN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/602761bf0d0eb49f4e8f313b32deb8e4-thumbnail.jpg" group-title="BASKETBALL",LA Clippers vs. Orlando Magic
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8563f38e9234c35c91ff2d4fd4ca2790-thumbnail.jpg" group-title="BASKETBALL",Brooklyn Nets vs. Boston Celtics (East Group B)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-20-2025/lac-orl
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/bkn-bos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_orlandomagic/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d6f177943c51da13e53908de40aa1704-thumbnail.jpg" group-title="BASKETBALL",Bucknell Bison vs. St. John's Red Storm
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/37d5cfaa80ad37fdfd2dc7478ade184a-thumbnail.jpg" group-title="BASKETBALL",Washington Wizards vs. Toronto Raptors (East Group A)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/4151-4151
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/was-tor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/205a17c80f3ef1a57d5f252c2806d353-thumbnail.jpg" group-title="BASKETBALL",Tennessee State Tigers vs. Tennessee Volunteers
+https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d03ddab55f04ae99f039d51deb2972ea-thumbnail.jpg" group-title="BASKETBALL",Miami Heat vs. Chicago Bulls (East Group C)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/1862-1862
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/mia-chi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/cbb-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/587b7115d1e4d29e53e2c82d326dfb7a-thumbnail.jpg" group-title="BASKETBALL",Sacramento Kings vs. Memphis Grizzlies
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg" group-title="BASKETBALL",New Orleans Pelicans vs. Dallas Mavericks (West Group B)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-20-2025/sac-mem
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/nop-dal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/25acf6e6e4f0898a888148f6c366d23b-thumbnail.jpg" group-title="BASKETBALL",Philadelphia 76ers vs. Milwaukee Bucks
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2116ccade7c809f2a538183753303d00-thumbnail.jpg" group-title="BASKETBALL",Minnesota Timberwolves vs. Phoenix Suns (West Group A)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-20-2025/phi-mil
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/min-phx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0b8df1fe150050021b8d7ed32f3898cb-thumbnail.jpg" group-title="BASKETBALL",Atlanta Hawks vs. San Antonio Spurs
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1b6c5b8dcfaef71cabeb6f0ce4805bc8-thumbnail.jpg" group-title="BASKETBALL",Denver Nuggets vs. Houston Rockets (West Group C)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-20-2025/atl-sas
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/den-hou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b2a49d4747d513cf1dc40a439d22f68a-thumbnail.jpg" group-title="BASKETBALL",Wake Forest Demon Deacons vs. Texas Tech Red Raiders
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ae96aa9cf44b45504f71c6d5e3a7be90-thumbnail.jpg" group-title="BASKETBALL",Oklahoma City Thunder vs. Utah Jazz (West Group A)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/6225-6225
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/okc-uta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg" group-title="BASKETBALL",Rider Broncs vs. Houston Cougars
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4a2cabd49a28c3f2fa1249a6cefc4238-thumbnail.jpg" group-title="BASKETBALL",Portland Trail Blazers vs. Golden State Warriors (West Group C)
 #EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/cfb/7949-7949
+#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nba/11-21-2025/por-gsw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="CRICKET",1st Test, Day 1: Australia vs. England
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/1st-test-day-1-australia-vs.-england
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ashes/index.m3u8
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="CRICKET",1st Test, Day 2: Australia vs. England
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/1st-test-day-2-australia-vs.-england
@@ -474,76 +459,6 @@ https://gg.poocloud.in/epl_mun/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/laliga/2025-11-24/esp-sev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ddf3ac596cc860e42f7c978474b3460c-thumbnail.jpg" group-title="ICE HOCKEY",Columbus Blue Jackets vs. Toronto Maple Leafs
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/1043/1043-tor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8dc436991bf8fe00a3e673f9db5e9cc2-thumbnail.jpg" group-title="ICE HOCKEY",Washington Capitals vs. Montreal Canadiens
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/8381/8381-mtl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/montrealcanadiens/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4aaecf5af4dfefbb486ec95ef467ec99-thumbnail.jpg" group-title="ICE HOCKEY",New York Islanders vs. Detroit Red Wings
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/2310/2310-det
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/detroitredwings/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7dd52cf506e859f065bf721b3d0b6d17-thumbnail.jpg" group-title="ICE HOCKEY",New Jersey Devils vs. Florida Panthers
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/2898/2898-fla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9b4b616b63bd60468ad57fae053f155c-thumbnail.jpg" group-title="ICE HOCKEY",St. Louis Blues vs. Philadelphia Flyers
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/8209/8209-phi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/philadelphiaflyers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6cfd36c5fcaa09a77404bca95a2e12a1-thumbnail.jpg" group-title="ICE HOCKEY",Edmonton Oilers vs. Tampa Bay Lightning
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/4813/4813-tb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/80af6200883e66939fbffa22e238b8c0-thumbnail.jpg" group-title="ICE HOCKEY",Seattle Kraken vs. Chicago Blackhawks
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/1396/1396-chi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/af5eca49c29cf952c039b7f090421a03-thumbnail.jpg" group-title="ICE HOCKEY",New York Rangers vs. Colorado Avalanche
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/1660/1660-col
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b25ccb75afb9c54c986175ce465dc64d-thumbnail.jpg" group-title="ICE HOCKEY",Vegas Golden Knights vs. Utah Mammoth
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/1676/1676-uta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/utahmammoth/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d8772dacaa24bbef0f747a1f9ca1b364-thumbnail.jpg" group-title="ICE HOCKEY",Dallas Stars vs. Vancouver Canucks
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/7327/7327-van
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/19c832f177e31e674bbbe1ac57594a42-thumbnail.jpg" group-title="ICE HOCKEY",Ottawa Senators vs. Anaheim Ducks
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/8176/8176-ana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/anaheimducks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d5bcef864ec0ad8d6860d1d0889a8f7a-thumbnail.jpg" group-title="ICE HOCKEY",Los Angeles Kings vs. San Jose Sharks
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/nhl/3403/3403-sj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg" group-title="MOTORSPORTS",Las Vegas Grand Prix - FP1
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/f1/2025/las-vegas/fp1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e70db4bcb8788cf56d0e194a2c237b02-thumbnail.jpg" group-title="MOTORSPORTS",Las Vegas Grand Prix - FP2
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/f1/2025/las-vegas/fp2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/43a28bbec6b78d817ea1f73e70bd7722-thumbnail.jpg" group-title="MOTORSPORTS",Las Vegas Grand Prix - FP3
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/f1/2025/las-vegas/fp3
@@ -559,11 +474,6 @@ https://gg.poocloud.in/f1/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/f1/2025/las-vegas/race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="WRESTLING",TNA: Impact
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/embed/tna/impact/25-11-20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="WRESTLING",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/wwe/smackdown/25-11-21
@@ -584,7 +494,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/247-cows
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family‌​‌​‌‌​​‌‌​‌​‌‌‌‌‌​‌​​​‌‌‌‌‌​​‌‌ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​‌​​​‌​​‌‌​‌‌‌​​​​‌‌‌‌‌​‌​‌‌​​​‌ Guy
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/embed/247-family-guy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
