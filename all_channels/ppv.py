@@ -1,10 +1,16 @@
 import re
 import sys
+import os
 import json
 import base64
 import binascii
 import urllib.parse
 import requests
+
+# API Configuration
+import time
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # API Configuration
 API_ENDPOINT = "https://ppv.to/api/streams"
@@ -20,11 +26,31 @@ BASE_HEADERS = {
 SESSION = requests.Session()
 SESSION.headers.update(BASE_HEADERS)
 
+# Configure retry strategy
+retry_strategy = Retry(
+    total=3,
+    backoff_factor=1,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["HEAD", "GET", "OPTIONS"]
+)
+adapter = HTTPAdapter(max_retries=retry_strategy)
+SESSION.mount("https://", adapter)
+SESSION.mount("http://", adapter)
+
 def fetch_streams_data():
     print(f"Fetching API: {API_ENDPOINT}...")
-    resp = SESSION.get(API_ENDPOINT, timeout=TIMEOUT)
-    resp.raise_for_status()
-    return resp.json()
+    try:
+        resp = SESSION.get(API_ENDPOINT, timeout=TIMEOUT)
+        resp.raise_for_status()
+        return resp.json()
+    except Exception as e:
+        print(f"API Fetch failed: {e}")
+        if os.path.exists("ppv_api.json"):
+            print("Falling back to local 'ppv_api.json' file.")
+            with open("ppv_api.json", "r", encoding="utf-8") as f:
+                return json.load(f)
+        else:
+            raise e
 
 def extract_m3u8_flexible(text):
     # ADD THE letter 'r' BEFORE THE TRIPLE QUOTES BELOW
@@ -84,10 +110,19 @@ def fetch_html(url, referer=None):
         headers["Sec-Fetch-Site"] = "cross-site"
 
     try:
+        # Add a small delay to be polite and avoid rate limits
+        time.sleep(1.0) 
+        print(f"Fetching {url}...")
         resp = SESSION.get(url, headers=headers, timeout=TIMEOUT)
+        print(f"Status: {resp.status_code}, Length: {len(resp.text)}")
         if resp.status_code == 200:
             return resp.text
+        elif resp.status_code == 429:
+            print(f"Rate limited on {url}, waiting...")
+            time.sleep(5) # Extra wait if we still hit 429 despite retries
+            return ""
     except Exception as e:
+        print(f"Error fetching {url}: {e}")
         # Silently fail on network errors during scraping to keep moving
         pass
     return ""
@@ -106,7 +141,7 @@ def get_m3u8_for_stream(stream):
     uri_name = stream.get("uri_name")
     if uri_name:
         targets.append(f"https://ppv.to/live/{uri_name}")
-        targets.append(f"https://watchlive.top/embed/{uri_name}")
+        # Removed watchlive.top as it is dead
 
     # Deduplicate
     targets = list(dict.fromkeys(targets))
