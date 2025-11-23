@@ -109,6 +109,11 @@ https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-23-2025/lal-uta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg" group-title="CRICKET",Prime Minister's XI vs England XI
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/the-ashes/2025-11-29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/ashes/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" group-title="DARTS",Players Championship Finals - Quarter Finals
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/pdc/2025/pc-finals/day-3/qfs
@@ -234,7 +239,7 @@ https://gg.poocloud.in/southpark/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/247-cows
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/cows/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family​​​‌​‌​​​‌​‌​​​‌‌​​‌‌‌‌‌​‌‌‌​​​‌ Guy
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​‌​​​​​‌‌‌​​​‌ Guy
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/247-family-guy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
