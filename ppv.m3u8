@@ -4,6 +4,11 @@
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/9556/9556-sf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3f525c598995f6cbb2b25f08d83154e1-thumbnail.jpg" group-title="BASKETBALL",Syracuse Orange vs. Houston Cougars
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/2748-2748
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f1749b0349c9586a261475959a63f9eb-thumbnail.jpg" group-title="BASKETBALL",Detroit Pistons vs. Indiana Pacers
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/det-ind
@@ -14,6 +19,11 @@ https://gg.poocloud.in/nba_indianapacers/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/cle-tor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f2a19384659ff532a76d76bf84a050a9-thumbnail.jpg" group-title="BASKETBALL",Eastern Michigan Eagles vs. Louisville Cardinals
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/4654-4654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/ACCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/03493d567f3299883b227cbdcec86058-thumbnail.jpg" group-title="BASKETBALL",New York Knicks vs. Brooklyn Nets
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/nyk-bkn
@@ -39,11 +49,26 @@ https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/chi-nop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c798d9e7bd8cd8c0408b9ca84503642f-thumbnail.jpg" group-title="BASKETBALL",UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/3639-3639
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/BTN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8e8d6caf0769a40f2024e7e823aca2b1-thumbnail.jpg" group-title="BASKETBALL",Auburn Tigers vs. Oregon Ducks
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/9697-9697
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/truTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/66cd935c93a321643f65195083bb7519-thumbnail.jpg" group-title="BASKETBALL",Houston Rockets vs. Phoenix Suns
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/hou-phx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a733dd918067cc1e3df0757f641f4836-thumbnail.jpg" group-title="BASKETBALL",Gonzaga Bulldogs vs. Alabama Crimson Tide
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/5574-5574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d2d4ee575b327992f13dfbd2a67668b0-thumbnail.jpg" group-title="BASKETBALL",Utah Jazz vs. Golden State Warriors
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/uta-gsw
@@ -54,43 +79,13 @@ https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-24-2025/min-sac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c683e7d7414bdffc52498fdc55a6d9c2-thumbnail.jpg" group-title="CRICKET",Prime Minister's XI vs England XI
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/afaf5d73e5343bb0aa80a65aa5180c17-thumbnail.jpg" group-title="BASKETBALL",Denver Pioneers vs. Arizona Wildcats
 #EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/the-ashes/2025-11-29
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/3196-3196
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ashes/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ca4f7a879c0fbe33f3973bd5b4af9a1a-thumbnail.jpg" group-title="FOOTBALL",Torino vs. Como
+https://gg.poocloud.in/CBSSN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/80acf6ac81fc58056bb8ee8c0ed6e5a2-thumbnail.jpg" group-title="BASKETBALL",San Diego State Aztecs vs. Michigan Wolverines
 #EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/serie-a/2025-11-24/tor-com
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/6739-6739
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_tor/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg" group-title="FOOTBALL",Sassuolo vs. Pisa
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/serie-a/2025-11-24/sas-pis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/seriea_sas/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a0375164be5a5ed1b5378901d95044d5-thumbnail.jpg" group-title="FOOTBALL",Manchester United vs. Everton
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/epl/2025-11-24/mun-eve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/epl_mun/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b032f516364e5d704ebbe7cef6bc2d46-thumbnail.jpg" group-title="FOOTBALL",RCD Espanyol de Barcelona vs. Sevilla FC
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/laliga/2025-11-24/esp-sev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/10cc92409620dc83d33281fd4488cf80-thumbnail.jpg" group-title="FOOTBALL",Ajax vs. Benfica
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/ucl/2025-11-25/ajx-ben
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ucl_ajx/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/61394225fcb8cc719f577c5d7236bc8a-thumbnail.jpg" group-title="FOOTBALL",Galatasaray vs. Union SG
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/ucl/2025-11-25/gal-usg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ucl_gal/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3ec1e7878d39b47805022fc981cef46d-thumbnail.jpg" group-title="FOOTBALL",Man City vs. Leverkusen
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/ucl/2025-11-25/mci-lev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ucl_mci/index.m3u8
+https://gg.poocloud.in/truTV/index.m3u8
