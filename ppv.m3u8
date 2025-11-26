@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ce44e1e5174825d697d898f58758661d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Green Bay Packers vs. Detroit Lions
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0bb209db142e9a89f4ea787a22900b4b-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Green Bay Packers vs. Detroit Lions
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/5373/5373-det
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -79,13 +79,13 @@ https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/7350/7350-ne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8d111557b132a393033e267816298c7e-thumbnail.jpg" group-title="BASKETBALL",Tennessee Volunteers vs. Houston Cougars
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a39725f5e21195dd6e8435ec69d2108a-thumbnail.jpg" group-title="BASKETBALL",Detroit Pistons vs. Boston Celtics (East Group B)
 #EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/3851-3851
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-26-2025/det-bos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d40daea0a4aa37ac57b0c8ab95480e13-thumbnail.jpg" group-title="BASKETBALL",St. Bonaventure Bonnies vs. North Carolina Tar Heels
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a7f0d6b3a875bf84b2a010860cf9d818-thumbnail.jpg" group-title="BASKETBALL",New York Knicks vs. Charlotte Hornets (East Group C)
 #EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/9265-9265
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/nba/11-26-2025/nyk-cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/FS1/index.m3u8
+https://gg.poocloud.in/nba_charlottehornets/index.m3u8
