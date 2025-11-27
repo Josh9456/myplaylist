@@ -89,8 +89,3 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/8866-8866
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/87f282a0580830a9c003c9075f790e32-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Alabama Crimson Tide vs. Auburn Tigers
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/4526-4526
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
