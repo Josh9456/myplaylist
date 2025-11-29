@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Ole Miss Rebels vs. Mississippi State Bulldogs
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/1305-1305
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Utah Utes vs. Kansas Jayhawks
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/3785-3785
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/33dcc6916b077f56e57f639d87b5aab5-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Chicago Bears vs. Philadelphia Eagles
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/1733/1733-phi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7fdfa81d8dfd79421f2951cadc85f000-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Georgia Bulldogs vs. Georgia Tech Yellow Jackets
-#EXTVLCOPT:http-origin=https://embednow.top
-#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/2034-2034
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3618955c562d164519606ba9b7ac7d63-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Indiana Hoosiers vs. Purdue Boilermakers
 #EXTVLCOPT:http-origin=https://embednow.top
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/9261-9261
@@ -94,3 +74,18 @@ https://gg.poocloud.in/ESPNU/index.m3u8
 #EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/3251-3251
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://gg.poocloud.in/ESPN2/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3d6bc829e457ad119ebd6fc59fca9491-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Notre Dame Fighting Irish vs. Stanford Cardinal
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/cfb/2219-2219
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f298e56333ec62add67554ea34214c8b-thumbnail.jpg" group-title="AMERICAN FOOTBALL",San Francisco 49ers vs. Cleveland Browns
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/9682/9682-cle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/clevelandbrowns/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/19d4e7bc03aa58e24ae7004dde416ff4-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Jacksonville Jaguars vs. Tennessee Titans
+#EXTVLCOPT:http-origin=https://embednow.top
+#EXTVLCOPT:http-referrer=https://embednow.top/embed/nfl/7917/7917-ten
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gg.poocloud.in/tennesseetitans/index.m3u8
