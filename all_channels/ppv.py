@@ -128,20 +128,38 @@ def fetch_html(url, referer=None):
     return ""
 
 def get_m3u8_for_stream(stream):
-    # 1) Get the iframe URL from JSON
-    iframe_url = stream.get("iframe")
+    # 1) First, try constructing URL from tag field (most reliable)
+    # Pattern: https://gg.poocloud.in/{TAG}/index.m3u8
+    tag = stream.get("tag")
+    if tag:
+        # Clean up tag: remove spaces, special chars, convert to uppercase
+        tag_clean = tag.strip().upper().replace(" ", "").replace("+", "").replace("-", "_")
+        
+        # Known channel tags that work with this pattern
+        known_channels = {
+            "FOX", "ESPN", "CBS", "ABC", "NBC", "ESPN2", "ESPNU", "TNT", 
+            "NBATV", "PPV", "PARAMOUNT", "LALIGA", "SERIEA", "PREMIERLEAGUE", 
+            "LIGUE1", "BUNDESLIGA", "FORMULA1", "TNTSPORTS"
+        }
+        
+        # Also try if tag is short and alphanumeric (likely a channel code)
+        # Skip very long tags that are probably team names or descriptions
+        if tag_clean in known_channels or (len(tag_clean) <= 12 and tag_clean.replace("_", "").isalnum()):
+            constructed_url = f"https://gg.poocloud.in/{tag_clean}/index.m3u8"
+            ref_url = stream.get("iframe") or f"https://ppv.to/live/{stream.get('uri_name', '')}"
+            return constructed_url, ref_url
 
-    # List of URLs to try scraping
+    # 2) Fallback: Try scraping from embed pages (may be blocked by Cloudflare)
+    iframe_url = stream.get("iframe")
     targets = []
 
     if iframe_url:
         targets.append(iframe_url)
 
-    # 2) Fallbacks based on uri_name
+    # 3) Additional fallback based on uri_name
     uri_name = stream.get("uri_name")
     if uri_name:
         targets.append(f"https://ppv.to/live/{uri_name}")
-        # Removed watchlive.top as it is dead
 
     # Deduplicate
     targets = list(dict.fromkeys(targets))
