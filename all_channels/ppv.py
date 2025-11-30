@@ -176,6 +176,12 @@ def get_m3u8_for_stream(stream):
 
 def generate_m3u_playlist(streams_data):
     out = ["#EXTM3U"]
+    
+    # --- START OF MODIFICATION ---
+    # Define the fixed values for origin and referer
+    FIXED_ORIGIN = "https://ppv.to"
+    FIXED_REFERER = "https://ppv.to/"
+    # --- END OF MODIFICATION ---
 
     # Handle case where API returns empty or malformed data
     categories = streams_data.get("streams", [])
@@ -201,11 +207,14 @@ def generate_m3u_playlist(streams_data):
                 continue
 
             total_found += 1
-            ref_used = ref_page or "https://ppv.to/"
+            # ref_used is no longer needed, as we use the fixed values
+            # ref_used = ref_page or "https://ppv.to/"
 
             out.append(f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group.upper()}",{name}')
-            out.append(f"#EXTVLCOPT:http-origin={origin_of(ref_used)}")
-            out.append(f"#EXTVLCOPT:http-referrer={ref_used}")
+            # --- MODIFIED LINES ---
+            out.append(f"#EXTVLCOPT:http-origin={FIXED_ORIGIN}")
+            out.append(f"#EXTVLCOPT:http-referrer={FIXED_REFERER}")
+            # --- END OF MODIFIED LINES ---
             out.append(f"#EXTVLCOPT:http-user-agent={BASE_HEADERS['User-Agent']}")
             out.append(m3u8_url)
 
