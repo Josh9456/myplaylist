@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="UFC",UFC 323 vs live
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://play.streameast247.com/playlist/stream_ufc.m3u8?md5=OecPcSi_lFOf1poJ9UZPZg&expires=1765027997
