@@ -9,10 +9,6 @@ import requests
 import random
 import time
 
-SCRAPING_BLOCKED = False
-
-# API Configuration
-import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -20,7 +16,6 @@ from urllib3.util.retry import Retry
 API_ENDPOINT = "https://ppv.to/api/streams"
 TIMEOUT = 20
 
-# Updated Headers to look like a real browser
 BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
@@ -41,6 +36,7 @@ adapter = HTTPAdapter(max_retries=retry_strategy)
 SESSION.mount("https://", adapter)
 SESSION.mount("http://", adapter)
 
+
 def fetch_streams_data():
     print(f"Fetching API: {API_ENDPOINT}...")
     try:
@@ -56,8 +52,8 @@ def fetch_streams_data():
         else:
             raise e
 
+
 def extract_m3u8_flexible(text):
-    # ADD THE letter 'r' BEFORE THE TRIPLE QUOTES BELOW
     r"""
     Robust extractor that handles:
     1. Plain text URLs
@@ -97,6 +93,7 @@ def extract_m3u8_flexible(text):
 
     return None
 
+
 def origin_of(url):
     try:
         u = urllib.parse.urlparse(url)
@@ -104,11 +101,8 @@ def origin_of(url):
     except Exception:
         return None
 
-def fetch_html(url, referer=None):
-    global SCRAPING_BLOCKED
-    if SCRAPING_BLOCKED:
-        return ""
 
+def fetch_html(url, referer=None):
     headers = {}
     if referer:
         headers["Referer"] = referer
@@ -129,12 +123,12 @@ def fetch_html(url, referer=None):
         if resp.status_code == 200:
             return resp.text
         elif resp.status_code == 429:
-            print(f"Rate limited (429) on {url}, waiting 30s...")
-            time.sleep(30) # Significant wait for 429
+            print(f"Rate limited (429) on {url}, waiting 30s before continuing...")
+            time.sleep(30)
             return ""
         elif resp.status_code == 403:
-            print(f"403 Forbidden on {url}. RATE LIMIT DETECTED. Stopping all scraping to protect IP.")
-            SCRAPING_BLOCKED = True
+            # Just log and continue to next stream - don't stop the script
+            print(f"403 Forbidden on {url}. Skipping this stream...")
             return ""
             
     except Exception as e:
@@ -143,9 +137,9 @@ def fetch_html(url, referer=None):
         pass
     return ""
 
+
 def get_m3u8_for_stream(stream):
-    # 1. Try scraping from embed pages FIRST (Most accurate)
-    # This ensures we get the specific stream URL (e.g. team specific) rather than a generic channel
+    # Try scraping from embed pages to get the correct stream URL
     iframe_url = stream.get("iframe")
     targets = []
 
@@ -165,15 +159,12 @@ def get_m3u8_for_stream(stream):
         html = fetch_html(url, referer="https://ppv.to/")
         m3u8 = extract_m3u8_flexible(html)
         if m3u8:
-            # Success
+            # Success - return the scraped URL and the page we got it from
             return m3u8, url
 
-    # 2. Fallback REMOVED.
-    # We strictly want the specific stream URL (e.g. team specific).
-    # If scraping fails, we prefer to return None rather than a generic channel.
+    # Could not find m3u8 URL
     return None, None
 
-    return None, None
 
 def generate_m3u_playlist(streams_data):
     out = ["#EXTM3U"]
@@ -212,6 +203,7 @@ def generate_m3u_playlist(streams_data):
 
     print(f"\nTotal streams extracted: {total_found}")
     return "\n".join(out) + "\n"
+
 
 def main():
     try:
