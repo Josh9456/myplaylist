@@ -6,6 +6,10 @@ import base64
 import binascii
 import urllib.parse
 import requests
+import random
+import time
+
+SCRAPING_BLOCKED = False
 
 # API Configuration
 import time
@@ -18,7 +22,7 @@ TIMEOUT = 20
 
 # Updated Headers to look like a real browser
 BASE_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
 }
@@ -101,6 +105,10 @@ def origin_of(url):
         return None
 
 def fetch_html(url, referer=None):
+    global SCRAPING_BLOCKED
+    if SCRAPING_BLOCKED:
+        return ""
+
     headers = {}
     if referer:
         headers["Referer"] = referer
@@ -110,17 +118,25 @@ def fetch_html(url, referer=None):
         headers["Sec-Fetch-Site"] = "cross-site"
 
     try:
-        # Add a small delay to be polite and avoid rate limits
-        time.sleep(1.0) 
-        print(f"Fetching {url}...")
+        # Add a randomized delay to be polite and avoid rate limits
+        delay = random.uniform(2.5, 5.0)
+        time.sleep(delay) 
+        
+        print(f"Fetching {url} (wait: {delay:.2f}s)...")
         resp = SESSION.get(url, headers=headers, timeout=TIMEOUT)
         print(f"Status: {resp.status_code}, Length: {len(resp.text)}")
+        
         if resp.status_code == 200:
             return resp.text
         elif resp.status_code == 429:
-            print(f"Rate limited on {url}, waiting...")
-            time.sleep(5) # Extra wait if we still hit 429 despite retries
+            print(f"Rate limited (429) on {url}, waiting 30s...")
+            time.sleep(30) # Significant wait for 429
             return ""
+        elif resp.status_code == 403:
+            print(f"403 Forbidden on {url}. RATE LIMIT DETECTED. Stopping all scraping to protect IP.")
+            SCRAPING_BLOCKED = True
+            return ""
+            
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         # Silently fail on network errors during scraping to keep moving
@@ -128,35 +144,15 @@ def fetch_html(url, referer=None):
     return ""
 
 def get_m3u8_for_stream(stream):
-    # 1) First, try constructing URL from tag field (most reliable)
-    # Pattern: https://gg.poocloud.in/{TAG}/index.m3u8
-    tag = stream.get("tag")
-    if tag:
-        # Clean up tag: remove spaces, special chars, convert to uppercase
-        tag_clean = tag.strip().upper().replace(" ", "").replace("+", "").replace("-", "_")
-        
-        # Known channel tags that work with this pattern
-        known_channels = {
-            "FOX", "ESPN", "CBS", "ABC", "NBC", "ESPN2", "ESPNU", "TNT", 
-            "NBATV", "PPV", "PARAMOUNT", "LALIGA", "SERIEA", "PREMIERLEAGUE", 
-            "LIGUE1", "BUNDESLIGA", "FORMULA1", "TNTSPORTS"
-        }
-        
-        # Also try if tag is short and alphanumeric (likely a channel code)
-        # Skip very long tags that are probably team names or descriptions
-        if tag_clean in known_channels or (len(tag_clean) <= 12 and tag_clean.replace("_", "").isalnum()):
-            constructed_url = f"https://gg.poocloud.in/{tag_clean}/index.m3u8"
-            ref_url = stream.get("iframe") or f"https://ppv.to/live/{stream.get('uri_name', '')}"
-            return constructed_url, ref_url
-
-    # 2) Fallback: Try scraping from embed pages (may be blocked by Cloudflare)
+    # 1. Try scraping from embed pages FIRST (Most accurate)
+    # This ensures we get the specific stream URL (e.g. team specific) rather than a generic channel
     iframe_url = stream.get("iframe")
     targets = []
 
     if iframe_url:
         targets.append(iframe_url)
 
-    # 3) Additional fallback based on uri_name
+    # Additional fallback based on uri_name
     uri_name = stream.get("uri_name")
     if uri_name:
         targets.append(f"https://ppv.to/live/{uri_name}")
@@ -172,16 +168,15 @@ def get_m3u8_for_stream(stream):
             # Success
             return m3u8, url
 
+    # 2. Fallback REMOVED.
+    # We strictly want the specific stream URL (e.g. team specific).
+    # If scraping fails, we prefer to return None rather than a generic channel.
+    return None, None
+
     return None, None
 
 def generate_m3u_playlist(streams_data):
     out = ["#EXTM3U"]
-    
-    # --- START OF MODIFICATION ---
-    # Define the fixed values for origin and referer
-    FIXED_ORIGIN = "https://ppv.to"
-    FIXED_REFERER = "https://ppv.to/"
-    # --- END OF MODIFICATION ---
 
     # Handle case where API returns empty or malformed data
     categories = streams_data.get("streams", [])
@@ -207,14 +202,11 @@ def generate_m3u_playlist(streams_data):
                 continue
 
             total_found += 1
-            # ref_used is no longer needed, as we use the fixed values
-            # ref_used = ref_page or "https://ppv.to/"
+            ref_used = ref_page or "https://ppv.to/"
 
             out.append(f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group.upper()}",{name}')
-            # --- MODIFIED LINES ---
-            out.append(f"#EXTVLCOPT:http-origin={FIXED_ORIGIN}")
-            out.append(f"#EXTVLCOPT:http-referrer={FIXED_REFERER}")
-            # --- END OF MODIFIED LINES ---
+            out.append(f"#EXTVLCOPT:http-origin={origin_of(ref_used)}")
+            out.append(f"#EXTVLCOPT:http-referrer={ref_used}")
             out.append(f"#EXTVLCOPT:http-user-agent={BASE_HEADERS['User-Agent']}")
             out.append(m3u8_url)
 
