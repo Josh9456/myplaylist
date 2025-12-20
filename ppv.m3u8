@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d1f77dfedc380287f45d295feb0887ae-thumbnail.jpg" group-title="AMERICAN FOOTBALL",#9 Alabama vs. #8 Oklahoma (First Round)
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfp/ala-oka
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfp/ala-ou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c1082a8f004e08b337a68226f54c9a4e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",#10 Miami vs. #7 Texas A&M (First Round)
@@ -11,7 +11,7 @@ https://gg.poocloud.in/ABC/index.m3u8
 https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7201fd10de0cbf3ff13e6543cf0d8ae5-thumbnail.jpg" group-title="AMERICAN FOOTBALL",#11 Tulane vs. #6 Ole Miss (First Round)
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfp/tul-ole
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfp/tuln-miss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27102a3353cda6be24a8a237c866a29d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Philadelphia Eagles vs. Washington Commanders
@@ -119,7 +119,7 @@ https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2025-12-19/okc-min
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/77b3f7f092ac58125a60487f5073de40-thumbnail.jpg" group-title="COMBAT SPORTS",Jake Paul vs. Anthony Joshua
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9376dff85428503c7faf38ab4462cc0d-thumbnail.jpg" group-title="COMBAT SPORTS",Jake Paul vs. Anthony Joshua
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/jake-paul-vs.-anthony-joshua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -129,41 +129,21 @@ https://gg.poocloud.in/netflix/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/misfits-mania/2025-12-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://delhi.poocloud.in/misfits.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfe08bb48f4502d771b895d499d8ca10-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c9703bc12682df35335a376aeb10e0d-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/ufc-324
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ufc/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="CRICKET",Australia vs. England (TNT Broadcast)
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="CRICKET",Australia vs. England
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/cricket/2025/au-en/3rd-test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ashes/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="CRICKET",Australia vs. England (FOX Broadcast)
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cricket/2025/au-en/3rd-test/fox-broadcast
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ashes_fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="DARTS",World Darts Championship
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/2025-world-darts-championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/771efdebf8fc8fc56821804bbdc7d068-thumbnail.jpg" group-title="FOOTBALL",Bologna vs. Internazionale
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/supercoppa/2025-12-19/bol-int
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_bol/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55dd26f95ebc5860ec9d446e4941e93e-thumbnail.jpg" group-title="FOOTBALL",Borussia Dortmund vs. Borussia Mönchengladbach
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/bundesliga/2025-12-19/dor-bmg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/bl_dor/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c30255a57262862b6f9b32ee7054f78-thumbnail.jpg" group-title="FOOTBALL",Valencia vs. Mallorca
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2025-12-19/val-mll
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_val/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/085a8bc8b6aec38062015ac75f39f57e-thumbnail.jpg" group-title="FOOTBALL",Newcastle United vs. Chelsea
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2025-12-20/new-che
