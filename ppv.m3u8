@@ -49,36 +49,6 @@ https://gg.poocloud.in/ufc/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/2025-world-darts-championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03d328aebe8dfd2a2dff5062c2a55305-thumbnail.jpg" group-title="FOOTBALL",Mali vs. Zambia
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-22/mli-zam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/91ed36e35e5993073d983aa42ae505fd-thumbnail.jpg" group-title="FOOTBALL",South Africa vs. Angola
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-22/rsa-ang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ca2b1d1fbaaebb3a9a69615da19d3fa-thumbnail.jpg" group-title="FOOTBALL",Napoli vs. Bologna
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/supercoppa/2025-12-22/nap-bol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_nap/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" group-title="FOOTBALL",Athletic Club vs. Espanyol
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2025-12-22/ath-esp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_ath/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" group-title="FOOTBALL",Fulham vs. Nottingham Forest
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2025-12-22/ful-nfo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_ful/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24382b5a5358d26d337ad4a9866a7c94-thumbnail.jpg" group-title="FOOTBALL",Egypt vs. Zimbabwe
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-22/egy-zim
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a65ab59f4e2b4d0d8d0f5805efa3295-thumbnail.jpg" group-title="FOOTBALL",Congo DR vs. Benin
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-23/cod-ben
