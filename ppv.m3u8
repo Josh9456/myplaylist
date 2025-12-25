@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c06035bf4eb33695f4d4a1b4ef3c3915-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Hawai'i Rainbow Warriors vs. California Golden Bears
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ncaaf/2025-12-25/haw-cal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Dallas Cowboys vs. Washington Commanders
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2025-12-25/dal-wsh
@@ -79,36 +84,21 @@ https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2025-12-29/lar-atl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/atlantafalcons/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c9703bc12682df35335a376aeb10e0d-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/ufc-324
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ufc/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="CRICKET",Australia vs. England
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cricket/2025/au-en/4th-test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/ashes_fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="DARTS",World Darts Championship
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/2025-world-darts-championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6179792c631a9d0f79a45565057a744f-thumbnail.jpg" group-title="FOOTBALL",Burkina Faso vs. Equatorial Guinea
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-24/bka-eqg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b7492bda8fe5b9eec71b14e1359fe2b-thumbnail.jpg" group-title="FOOTBALL",Algeria vs. Sudan
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-24/alg-sud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bd3789a5273ebff7a9b2376ec59810b2-thumbnail.jpg" group-title="FOOTBALL",Ivory Coast vs. Mozambique
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-24/civ-moz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01ca93cb3ed86553f08c256726277319-thumbnail.jpg" group-title="FOOTBALL",Cameroon vs. Gabon
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-24/cmr-gab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69f93ba1393a3b513724f9c2fe1a9ca1-thumbnail.jpg" group-title="FOOTBALL",Angola vs. Zimbabwe
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2025-12-26/ang-zim
@@ -289,11 +279,6 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2025-12-29/roma-gen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_roma/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="WRESTLING",AEW: Wednesday Night Dynamite
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/aew/dynamite/2025-12-25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="WRESTLING",TNA: Impact
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/tna/impact/2025-12-26
