@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36533879406a3c06c9267dbacef73e39-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Ole Miss Rebels vs. Georgia Bulldogs
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfb/8312-8312
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Rice Owls vs. Texas State Bobcats
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfb/4037-4037
@@ -109,31 +104,56 @@ https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfb/9993-9993
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" group-title="BASKETBALL",Houston Rockets vs. Brooklyn Nets
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5272e08162b4e799a046432ff00ca7b-thumbnail.jpg" group-title="BASKETBALL",San Antonio Spurs vs. Indiana Pacers
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-01/hou-bkn
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/sa-ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/brooklynnets/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" group-title="BASKETBALL",Miami Heat vs. Detroit Pistons
+https://gg.poocloud.in/indianapacers/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9fdd6ca780610bf8ac9631557ad0914-thumbnail.jpg" group-title="BASKETBALL",Brooklyn Nets vs. Washington Wizards
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-01/mia-det
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/bkn-wsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/detroitpistons/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d03193288dc1690108a6681d246b3e54-thumbnail.jpg" group-title="BASKETBALL",Philadelphia 76ers vs. Dallas Mavericks
+https://gg.poocloud.in/washingtonwizards/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac4f39bafabdb7a55affbe1be7fb2842-thumbnail.jpg" group-title="BASKETBALL",Denver Nuggets vs. Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-01/phi-dal
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/den-cle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/dallasmavericks/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" group-title="BASKETBALL",Boston Celtics vs. Sacramento Kings
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b788992a27c64c9dc0f9063e96d446a3-thumbnail.jpg" group-title="BASKETBALL",Atlanta Hawks vs. New York Knicks
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-01/bos-sac
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/atl-ny
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sacramentokings/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93f3ae6f328fb26c3e6c2d6422ed0660-thumbnail.jpg" group-title="BASKETBALL",Utah Jazz vs. LA Clippers
+https://gg.poocloud.in/newyorkknicks/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28de10e425c15355e2aff2e9dc62fc70-thumbnail.jpg" group-title="BASKETBALL",Orlando Magic vs. Chicago Bulls
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-01/utah-lac
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/orl-chi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/laclippers/index.m3u8
+https://gg.poocloud.in/chicagobulls/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aecee0aea6992db0dfea3ede7382702e-thumbnail.jpg" group-title="BASKETBALL",Charlotte Hornets vs. Milwaukee Bucks
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/cha-mil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/milwaukeebucks/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c8b3a5d82a846ce5bbdbf5cabb52664-thumbnail.jpg" group-title="BASKETBALL",Portland Trail Blazers vs. New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/por-no
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e7b38a944455d8e49310ac56afb46d9-thumbnail.jpg" group-title="BASKETBALL",Sacramento Kings vs. Phoenix Suns
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/sac-phx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fd008669a65aff537a94f44e796a1b24-thumbnail.jpg" group-title="BASKETBALL",Oklahoma City Thunder vs. Golden State Warriors
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/okc-gs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d12fe485bfc0c7a83c3356bd9426830-thumbnail.jpg" group-title="BASKETBALL",Memphis Grizzlies vs. Los Angeles Lakers
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-02/mem-lal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/ufc-324
@@ -324,7 +344,7 @@ https://gg.poocloud.in/ll_mll/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/mnc-che
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_mnc/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79995087401a08dd0b8575454dc872d9-thumbnail.jpg" group-title="FOOTBALL",Internazionale vs. Bologna
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79995087401a08dd0b8575454dc872d9-thumbnail.jpg" group-title="FOOTBALL",Inter Milan vs. Bologna
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-04/int-bol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -339,41 +359,51 @@ https://gg.poocloud.in/l1_psg/index.m3u8
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/rso-atm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_rso/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" group-title="ICE HOCKEY",Winnipeg Jets vs. Toronto Maple Leafs
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/122eb9528fc9ef0e5571da91b056ea5f-thumbnail.jpg" group-title="ICE HOCKEY",Germany vs. Denmark
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/wpg-tor
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/wjc/2026-01-02/ger-den
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" group-title="ICE HOCKEY",Detroit Red Wings vs. Pittsburgh Penguins
+https://gg.poocloud.in/wjc_ger/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/185a9c038c3856d222297bc2dbb6602f-thumbnail.jpg" group-title="ICE HOCKEY",Sweden vs. Latvia
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/det-pit
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/wjc/2026-01-02/swe-lat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pittsburghpenguins/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" group-title="ICE HOCKEY",Montreal Canadiens vs. Carolina Hurricanes
+https://gg.poocloud.in/iihf/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b00f161140f065c3b686f24381f3bfe6-thumbnail.jpg" group-title="ICE HOCKEY",Vegas Golden Knights vs. St. Louis Blues
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/mtl-car
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-02/vgk-stl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" group-title="ICE HOCKEY",Tampa Bay Lightning vs. Los Angeles Kings
+https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/380c8929047323572b5a047346843c86-thumbnail.jpg" group-title="ICE HOCKEY",Czech Republic vs. Switzerland
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/tb-la
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/wjc/2026-01-02/cze-sui
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/losangeleskings/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg" group-title="ICE HOCKEY",Dallas Stars vs. Chicago Blackhawks
+https://gg.poocloud.in/wjc_cze/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5295923e9bab7bd0cdc0b070792e98c2-thumbnail.jpg" group-title="ICE HOCKEY",United States vs. Finland
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/dal-chi
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/wjc/2026-01-02/usa-fin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08c6bad9b8987014cf053ff32b0f1663-thumbnail.jpg" group-title="ICE HOCKEY",Nashville Predators vs. Seattle Kraken
+https://gg.poocloud.in/iihf/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/011a08b47ece4528b98e52802c6a51c9-thumbnail.jpg" group-title="ICE HOCKEY",New York Rangers vs. Florida Panthers
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-01/nsh-sea
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-02/nyr-fla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/seattlekraken/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="WRESTLING",TNA: Impact
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea8cf20c2a3fd6f878e7e815ef35bc77-thumbnail.jpg" group-title="ICE HOCKEY",Canada vs. Slovakia
 #EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/tna/impact/2026-01-02
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/wjc/2026-01-02/can-svk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/iihf/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6baba361bfde9eba6c11c078269db3bb-thumbnail.jpg" group-title="ICE HOCKEY",Seattle Kraken vs. Vancouver Canucks
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-02/sea-van
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d275e5cfc51e87cf4443ff297353ead3-thumbnail.jpg" group-title="ICE HOCKEY",Minnesota Wild vs. Anaheim Ducks
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-02/min-ana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/anaheimducks/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="WRESTLING",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/embed/wwe/smackdown/2026-01-03
