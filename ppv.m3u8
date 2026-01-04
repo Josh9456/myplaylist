@@ -1,421 +1,316 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Carolina Panthers vs. Tampa Bay Buccaneers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-03/car-tb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Seattle Seahawks vs. San Francisco 49ers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-03/sea-sf
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-03/sea-sf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="AMERICAN FOOTBALL",New Orleans Saints vs. Atlanta Falcons
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/no-atl
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/no-atl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9fda0396269ada10e8703bf8ac2fc55-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Cleveland Browns vs. Cincinnati Bengals
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/cle-cin
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/cle-cin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/cincinnatibengals/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc4278e682e6e34097304dbf85516024-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Green Bay Packers vs. Minnesota Vikings
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/gb-min
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/gb-min
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/minnesotavikings/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ca44c4ce248fe63c7307528270d13b0-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Dallas Cowboys vs. New York Giants
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/dal-nyg
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/dal-nyg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c2f0aea1c5a7bb6e45926baf2fb086f4-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Tennessee Titans vs. Jacksonville Jaguars
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/ten-jax
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/ten-jax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6dc83f19777b178e00da683930748b7d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Indianapolis Colts vs. Houston Texans
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/ind-hou
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/ind-hou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90200cdcb846ee2180bd0871c0a99265-thumbnail.jpg" group-title="AMERICAN FOOTBALL",New York Jets vs. Buffalo Bills
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/nyj-buf
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/nyj-buf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/404514c6f8c063faddb3a67656422151-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Detroit Lions vs. Chicago Bears
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/det-chi
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/det-chi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03c1e246ce1614e05daae5808ca37c4d-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Los Angeles Chargers vs. Denver Broncos
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/lac-den
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/lac-den
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Kansas City Chiefs vs. Las Vegas Raiders
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/kc-lv
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/kc-lv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/11f3db059bf62c2247acdb35daa7a265-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Arizona Cardinals vs. Los Angeles Rams
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/ari-lar
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/ari-lar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ed24fc2cd7d8e50f6cf5e4d3cfaea79-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Miami Dolphins vs. New England Patriots
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/mia-ne
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/mia-ne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/485698f9e71ed5171636e9d50edddee5-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Washington Commanders vs. Philadelphia Eagles
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/wsh-phi
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/wsh-phi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b80cc756e69663d6bcfbd25e9147ec41-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Baltimore Ravens vs. Pittsburgh Steelers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nfl/2026-01-04/bal-pit
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nfl/2026-01-04/bal-pit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",Illinois State Redbirds vs. Montana State Bobcats
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/cfb/9993-9993
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cfb/9993-9993
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b0e782cda8e405c73b55e8c072f794f-thumbnail.jpg" group-title="BASKETBALL",Minnesota Timberwolves vs. Miami Heat
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/min-mia
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c8986ddb3126fa9b5005f666075d7d1-thumbnail.jpg" group-title="BASKETBALL",UCLA Bruins vs. Iowa Hawkeyes
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cfb/8622-8622
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/miamiheat/index.m3u8
+https://gg.poocloud.in/Peacock/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb3cd5e9a6da61b60fab860a8e76fedc-thumbnail.jpg" group-title="BASKETBALL",Illinois Fighting Illini vs. Penn State Nittany Lions
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cfb/8270-8270
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/538641e5d67f300ee62a75dfb2b87c11-thumbnail.jpg" group-title="BASKETBALL",Philadelphia 76ers vs. New York Knicks
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/phi-ny
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/phi-ny
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76fa0ea6fc1310ecd5e12bbb6c6376c6-thumbnail.jpg" group-title="BASKETBALL",Atlanta Hawks vs. Toronto Raptors
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/atl-tor
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/atl-tor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/torontoraptors/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4db7ca61f500660fbb363ebe70f3c521-thumbnail.jpg" group-title="BASKETBALL",Charlotte Hornets vs. Chicago Bulls
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/cha-chi
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/cha-chi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8b8db0f5f8c63b10d0c8af9f61f3d55-thumbnail.jpg" group-title="BASKETBALL",Portland Trail Blazers vs. San Antonio Spurs
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/por-sa
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/por-sa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/693237a3167960c6889b30fdbc1804b5-thumbnail.jpg" group-title="BASKETBALL",Purdue Boilermakers vs. Wisconsin Badgers
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cfb/3300-3300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg" group-title="BASKETBALL",Houston Rockets vs. Dallas Mavericks
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/hou-dal
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/hou-dal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49c9b198ce8a9c2d03872259fc2315f2-thumbnail.jpg" group-title="BASKETBALL",Florida Gators vs. Missouri Tigers
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cfb/3495-3495
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e06c569d1c9d7ee8198e03302dca17fb-thumbnail.jpg" group-title="BASKETBALL",Utah Jazz vs. Golden State Warriors
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/utah-gs
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/utah-gs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0eb7bbff98ce2066105a9f94710dff4b-thumbnail.jpg" group-title="BASKETBALL",Boston Celtics vs. LA Clippers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nba/2026-01-03/bos-lac
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nba/2026-01-03/bos-lac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/laclippers/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad82e80a6b6868dfd69dbc8998ec1f4b-thumbnail.jpg" group-title="COMBAT SPORTS",Amanda Serrano vs. Reina Tellez
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/amanda-serrano-vs.-reina-tellez
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="COMBAT SPORTS",UFC 324: Gaethje vs. Pimblett
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ufc-324
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ufc-324
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ufc/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="DARTS",World Darts Championship
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/2025-world-darts-championship
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="CRICKET",Australia vs. England
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/cricket/2026/au-en/5th-test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d12aba40501e55e90e46258382098ec2-thumbnail.jpg" group-title="FOOTBALL",Como vs. Udinese
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-03/como-udi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_como/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" group-title="FOOTBALL",Aston Villa vs. Nottingham Forest
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-03/avl-nfo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_avl/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" group-title="FOOTBALL",Celta Vigo vs. Valencia
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-03/cel-val
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_cel/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg" group-title="FOOTBALL",Genoa vs. Pisa
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-03/gen-pis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_gen/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9eb03ce38bc9fb160a0b08cd6f3168fa-thumbnail.jpg" group-title="FOOTBALL",Sassuolo vs. Parma
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-03/sas-par
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_sas/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" group-title="FOOTBALL",Brighton & Hove Albion vs. Burnley
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-03/bha-bur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_bha/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" group-title="FOOTBALL",Wolverhampton Wanderers vs. West Ham United
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-03/wol-whu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_wol/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" group-title="FOOTBALL",Osasuna vs. Athletic Club
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-03/osa-ath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_osa/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" group-title="FOOTBALL",AS Monaco vs. Lyon
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-03/mon-lyon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/l1_mon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" group-title="FOOTBALL",Senegal vs. Sudan
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2026-01-03/sen-sud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04ab1cc40cd1afed4b09282f3c42097e-thumbnail.jpg" group-title="FOOTBALL",Juventus vs. Lecce
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-03/juv-lec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_juv/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b22be3ec863d8e26f174380ad5dc34ef-thumbnail.jpg" group-title="FOOTBALL",Elche vs. Villarreal
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-03/elc-vil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_elc/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c93cdbd0b519cd15b015b8f489a9c21-thumbnail.jpg" group-title="FOOTBALL",AFC Bournemouth vs. Arsenal
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-03/bou-ars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_bou/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09a5c0b3d8ee8f06111ce21a91f713fe-thumbnail.jpg" group-title="FOOTBALL",Nice vs. Strasbourg
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-03/nice-str
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/l1_nice/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/015f4fa0875f89f338736d03006f2980-thumbnail.jpg" group-title="FOOTBALL",Mali vs. Tunisia
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/afcon/2026-01-03/mli-tun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42af626809e6f27839181d396b209e00-thumbnail.jpg" group-title="FOOTBALL",Atalanta vs. AS Roma
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-03/ata-roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_ata/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" group-title="FOOTBALL",Espanyol vs. Barcelona
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-03/esp-bar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg" group-title="FOOTBALL",Lille vs. Stade Rennais
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-03/lill-ren
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/l1_lill/index.m3u8
+https://gg.poocloud.in/ashes/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg" group-title="FOOTBALL",Lazio vs. Napoli
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-04/laz-nap
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/seriea/2026-01-04/laz-nap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_laz/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg" group-title="FOOTBALL",Leeds United vs. Manchester United
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/lee-man
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/lee-man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_lee/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef9b2498fd10e0b2ba179f9b659bc469-thumbnail.jpg" group-title="FOOTBALL",Sevilla vs. Levante
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/sev-lev
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/laliga/2026-01-04/sev-lev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5c759575b428dc5adea5c69acda16048-thumbnail.jpg" group-title="FOOTBALL",Fiorentina vs. Cremonese
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-04/fio-cre
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/seriea/2026-01-04/fio-cre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7829d33a2ab0af4557f905d56f99514-thumbnail.jpg" group-title="FOOTBALL",Marseille vs. Nantes
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-04/olm-nan
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ligue1/2026-01-04/olm-nan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/l1_olm/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/569fb0013ec39b8d35ab77e5d95f18b6-thumbnail.jpg" group-title="FOOTBALL",Everton vs. Brentford
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/eve-bre
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/eve-bre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_eve/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg" group-title="FOOTBALL",Fulham vs. Liverpool
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/ful-liv
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/ful-liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_ful/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg" group-title="FOOTBALL",Newcastle United vs. Crystal Palace
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/new-cry
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/new-cry
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_new/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c26cf49438aa869e01d4ad873dd169ad-thumbnail.jpg" group-title="FOOTBALL",Tottenham Hotspur vs. Sunderland
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/tot-sun
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/tot-sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_tot/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7bfb1ba1fbe6ea2a1a57e2b05357f711-thumbnail.jpg" group-title="FOOTBALL",Real Madrid vs. Real Betis
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/rma-bet
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/laliga/2026-01-04/rma-bet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_rma/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b8b730aca55a095afa83609be989cab-thumbnail.jpg" group-title="FOOTBALL",Brest vs. AJ Auxerre
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-04/bre-aux
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ligue1/2026-01-04/bre-aux
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/l1_bre/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00ee1ffb594f974bd3968628d8005343-thumbnail.jpg" group-title="FOOTBALL",Le Havre AC vs. Angers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-04/hac-ang
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ligue1/2026-01-04/hac-ang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/l1_hac/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17e006f623c0a063a1ca1c418ef0e530-thumbnail.jpg" group-title="FOOTBALL",Lorient vs. Metz
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-04/lor-metz
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ligue1/2026-01-04/lor-metz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/l1_lor/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af9fbb80c70992376a5554a553b0d635-thumbnail.jpg" group-title="FOOTBALL",Hellas Verona vs. Torino
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-04/ver-tor
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/seriea/2026-01-04/ver-tor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1f03ec28b29415a255b929f2f9dd9782-thumbnail.jpg" group-title="FOOTBALL",Alavés vs. Real Oviedo
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/ala-ovi
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/laliga/2026-01-04/ala-ovi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_ala/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7f3645a60df5893e5b4e6297a85e993-thumbnail.jpg" group-title="FOOTBALL",Mallorca vs. Girona
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/mll-gir
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/laliga/2026-01-04/mll-gir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_mll/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/819142cc3fd49934504f31d34bd88e3e-thumbnail.jpg" group-title="FOOTBALL",Manchester City vs. Chelsea
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/premierleague/2026-01-04/mnc-che
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/premierleague/2026-01-04/mnc-che
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/pl_mnc/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79995087401a08dd0b8575454dc872d9-thumbnail.jpg" group-title="FOOTBALL",Inter Milan vs. Bologna
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/seriea/2026-01-04/int-bol
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/seriea/2026-01-04/int-bol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_int/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a9baf4bb8d72505d10c26a1e0166eb20-thumbnail.jpg" group-title="FOOTBALL",Paris Saint-Germain vs. Paris FC
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/ligue1/2026-01-04/psg-par
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/ligue1/2026-01-04/psg-par
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/l1_psg/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00604fc5db6144217be3ac9c0c627cca-thumbnail.jpg" group-title="FOOTBALL",Real Sociedad vs. Atlético Madrid
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/laliga/2026-01-04/rso-atm
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/laliga/2026-01-04/rso-atm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_rso/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98879917ee58a09071c1acde5a70bfbe-thumbnail.jpg" group-title="ICE HOCKEY",Pittsburgh Penguins vs. Detroit Red Wings
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/pit-det
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/detroitredwings/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eb477b8c78820adf2e7b5a692a6e0926-thumbnail.jpg" group-title="ICE HOCKEY",Utah Mammoth vs. New Jersey Devils
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/uta-nj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/newjerseydevils/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a3f2e0c34f3c9da5686b0d53692a373-thumbnail.jpg" group-title="ICE HOCKEY",Buffalo Sabres vs. Columbus Blue Jackets
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/buf-cbj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/columbusbluejackets/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/77b2f3939c9e854cd9ba3ba9e1d0cc5f-thumbnail.jpg" group-title="ICE HOCKEY",Philadelphia Flyers vs. Edmonton Oilers
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/phi-edm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35d5d8bad2c4719c0acccc9eeba31e7e-thumbnail.jpg" group-title="ICE HOCKEY",Montreal Canadiens vs. St. Louis Blues
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/mtl-stl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" group-title="ICE HOCKEY",Tampa Bay Lightning vs. San Jose Sharks
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/tb-sj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a6efcd8a619969573325b847bd2b4fd-thumbnail.jpg" group-title="ICE HOCKEY",Winnipeg Jets vs. Ottawa Senators
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/wpg-ott
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/wpg-ott
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ottawasenators/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebb36d896836d60752235bc4f21408ec-thumbnail.jpg" group-title="ICE HOCKEY",Toronto Maple Leafs vs. New York Islanders
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/tor-nyi
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/tor-nyi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/newyorkislanders/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/668caa82cd62bf83eedd576de45cbd53-thumbnail.jpg" group-title="ICE HOCKEY",Chicago Blackhawks vs. Washington Capitals
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/chi-wsh
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/chi-wsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d467759c3aafdde1cbd2790a53a3a40e-thumbnail.jpg" group-title="ICE HOCKEY",Colorado Avalanche vs. Carolina Hurricanes
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/col-car
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/col-car
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec18a6c0ed81d2ad797d7ef0fe73347b-thumbnail.jpg" group-title="ICE HOCKEY",Nashville Predators vs. Calgary Flames
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/nsh-cgy
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/nsh-cgy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/calgaryflames/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/419039fd232589802c4ea9b3bbfd1606-thumbnail.jpg" group-title="ICE HOCKEY",Minnesota Wild vs. Los Angeles Kings
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/min-la
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/min-la
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/losangeleskings/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c20df4cbdc9c0005fe87eb9001428d85-thumbnail.jpg" group-title="ICE HOCKEY",Boston Bruins vs. Vancouver Canucks
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/nhl/2026-01-03/bos-van
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/nhl/2026-01-03/bos-van
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="WRESTLING",AEW: Saturday Night Collision
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/aew/collision/2026-01-04
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/aew/collision/2026-01-04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 STREAMS",24/7 South Park
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/247-south-park
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/247-south-park
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/southpark/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",24/7 COWS
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/247-cows
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/247-cows
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/cows/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family Guy
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/247-family-guy
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/247-family-guy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/familyguy/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/247-the-simpsons
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/247-the-simpsons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg" group-title="24/7 STREAMS",Master stream test
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/embed/master-stream-test-delete-12568
+#EXTVLCOPT:http-origin=https://modistreams.org
+#EXTVLCOPT:http-referrer=https://modistreams.org/embed/master-stream-test-delete-12568
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8
