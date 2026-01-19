@@ -13,7 +13,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # API Configuration
-API_ENDPOINT = "https://ppv.to/api/streams"
+API_ENDPOINT = "https://api.ppv.to/api/streams"
 TIMEOUT = 20
 
 BASE_HEADERS = {
