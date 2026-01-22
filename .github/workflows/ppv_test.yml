@@ -26,7 +26,7 @@ jobs:
           playwright install chromium
 
       - name: Run scraper script
-        run: USE_PLAYWRIGHT=1 all_channels/python ppv_test.py
+        run: all_channels/python ppv_test.py
 
       - name: Commit and push updated playlist
         run: |
